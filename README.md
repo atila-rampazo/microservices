@@ -6,4 +6,4 @@ Seram criados 3 microservicos **Cliente**,**Produtos**,**Pedidos**,**Relatórios
 Ideia com esse projeto e remover dúvidas sobre a criação de um ecosistema com microserviços.
 
 Arquitetura Inicial:
-[Aqui deve vir uma imagem]
+![Diagrama](https://raw.githubusercontent.com/atila-rampazo/microservices/main/diagrama.jpg)
