@@ -1,3 +1,7 @@
 /clientes/vendor
 /pedidos/vendor
 /produtos/vendor
+
+/clientes/storage/dbdata
+/pedidos/storage/dbdata
+/produtos/storage/dbdata
